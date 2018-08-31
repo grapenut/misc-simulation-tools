@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ spline.cpp -L/home/r900-1/milos/gsl-1.11/lib -lgsl -lgslcblas -o spline
